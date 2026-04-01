@@ -1,5 +1,8 @@
 # LCD 16x2 I2C PCF8574T
 
+## How 2 Use
+Create project, then freshly paste files from here to main/.
+
 ## Connections
 | LCD | ESP32S3 |
 |-----|---------|
