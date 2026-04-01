@@ -1,0 +1,11 @@
+# Python venv
+.venv/
+
+# ESP-IDF build outputs
+build/
+managed_components/
+artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
